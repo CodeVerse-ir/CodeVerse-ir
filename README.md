@@ -14,7 +14,7 @@ I specialize in the following areas:
 
 Here are some of the projects I have worked on:  
 
-1. **[Kitchenware Store](https://coffee-shop-zeta-two.vercel.app)**   
+1. **[Kitchenware Store](https://kitchenware.vercel.app/)**   
 2. **[Coffee Shop](https://coffee-shop-zeta-two.vercel.app)**  
 3. **[Business Foundation](https://business-rosy.vercel.app)**  
 
