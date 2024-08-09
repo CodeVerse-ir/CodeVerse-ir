@@ -1,6 +1,6 @@
 # Personal Website CodeVerse-ir  
 
-Welcome to my personal website! I am Mohammad Kabiri, a web developer with experience in various areas of web development.  
+Welcome to my personal website! I am **Mohammad Kabiri**, a web developer with experience in various areas of web development.  
 
 ## About Me  
 
