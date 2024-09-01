@@ -20,7 +20,7 @@ Here are some of the projects I have worked on:
 
 ## Website  
 
-You can visit my personal website at: **[CodeVerse](https://codeverse.iapp.ir)**  
+You can visit my personal website at: **[CodeVerse](https://codeverse.whi.ir)**  
 
 ## Skills  
 
