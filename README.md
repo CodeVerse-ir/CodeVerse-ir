@@ -20,7 +20,9 @@ Here are some of the projects I have worked on:
 
 ## Website  
 
-You can visit my personal website at: **[CodeVerse](http://codeverse.whi.ir)**  
+You can visit my personal website at: **[CodeVerse](https://codeverse-portfolio.vercel.app)**  
+
+This is an older version of my website. For the latest updates and information, please visit my new site: **[CodeVerse (Old)](http://codeverse.whi.ir)**.
 
 ## Skills  
 
