@@ -17,6 +17,7 @@ Here are some of the projects I have worked on:
 1. **[Kitchenware Store](https://kitchenware.vercel.app/)**   
 2. **[Coffee Shop](https://coffee-shop-zeta-two.vercel.app)**  
 3. **[Business Foundation](https://business-rosy.vercel.app)**
+4. **[Music Foundation](https://habib-mohabian.vercel.app)**
 
 ## Website  
 
